@@ -79,19 +79,6 @@ else
 }
 */
 
-// Задача 4
-Console.Write("Введите число:");
-int numberN = Convert.ToInt32(Console.ReadLine());
-
-int current = 1;
-int ed = numberN / 2;
-
-while(current <= numberN)
-{
-  Console.Write(ed + " ");  
-  ed+=2;
-}
-
 
  
 

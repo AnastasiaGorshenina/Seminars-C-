@@ -79,9 +79,18 @@ else
 }
 */
 
+// Задача 4
+/*
+Console.WriteLine("Введите число:");
+int number = Convert.ToInt32(Console.ReadLine());
+{
+    for (int current = 1 ; current <= number; current++) 
+    {
+        if (current % 2 == 0)
+        {
+            Console.Write(current);
 
- 
-
- 
-
-  
+        }
+    }
+}
+*/

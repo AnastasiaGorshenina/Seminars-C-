@@ -1,0 +1,15 @@
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\bin\Debug\net6.0\Seminar 6.exe
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\bin\Debug\net6.0\Seminar 6.deps.json
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\bin\Debug\net6.0\Seminar 6.runtimeconfig.json
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\bin\Debug\net6.0\Seminar 6.dll
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\bin\Debug\net6.0\Seminar 6.pdb
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.csproj.AssemblyReference.cache
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.AssemblyInfoInputs.cache
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.AssemblyInfo.cs
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.dll
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\refint\Seminar 6.dll
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.pdb
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\Seminar 6.genruntimeconfig.cache
+C:\Users\Anastasia\OneDrive\Рабочий стол\Seminars C#\Seminars\Seminar 6\obj\Debug\net6.0\ref\Seminar 6.dll
